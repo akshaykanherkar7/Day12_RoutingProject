@@ -13,7 +13,7 @@ const Navbar = () => {
           />
         </div>
         <div className={styles.shopsite}>
-          <Link to="home">
+          <Link to="/">
             <p>Home</p>
           </Link>
           <Link to="mens">
