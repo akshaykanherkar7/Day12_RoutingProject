@@ -1,0 +1,27 @@
+
+.navbar{
+    height: 70px;
+    /* border: 1px solid red; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.shopsite{
+    /* border: 1px solid gray; */
+    display: flex;
+    justify-content: space-evenly;
+    width: 25%;
+    height: 30px;
+}
+.shopsite p:hover{
+    background-color: teal;
+    color: white;   
+    padding: 5px;
+}
+button:hover{
+    background-color: teal;
+    color: white;   
+    padding: 4px 8px;
+    font-size: 26px;
+}

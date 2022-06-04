@@ -1,0 +1,30 @@
+.container{
+    /* border: 1px solid red; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    padding: 20px;
+}
+.leftBox{
+    /* border: 1px solid; */
+    width: 15%;
+}
+.leftBox p{
+    /* border: 1px solid blue; */
+    margin-top: 15px;
+    width: 100%;
+    text-align:justify;
+}
+.details{
+    display: grid;
+    gap: 5px;
+}
+.details p:hover{
+   background-color: teal;
+   padding: 4px;
+   color: white;
+}
+.container h3{
+    font-size: 20px;
+}
