@@ -1,12 +1,8 @@
 # Deployment Liks
 
-## Netlify
-
 [Netlify Link](https://akshaykanherkar.netlify.app/)
 
-## Vercel
-
-     [Vercel Link](https://akshaykanherkar-4hil3bvdj-akshaykanherkar7.vercel.app/)
+[Vercel Link](https://akshaykanherkar-4hil3bvdj-akshaykanherkar7.vercel.app/)
 
 # Getting Started with Create React App
 
