@@ -2,11 +2,11 @@
 
 ## Netlify
 
-    ---->  https://akshaykanherkar.netlify.app/
+[Netlify Link](https://akshaykanherkar.netlify.app/)
 
 ## Vercel
 
-    ---->  https://akshaykanherkar-4hil3bvdj-akshaykanherkar7.vercel.app/
+     [Vercel Link](https://akshaykanherkar-4hil3bvdj-akshaykanherkar7.vercel.app/)
 
 # Getting Started with Create React App
 
